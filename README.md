@@ -66,7 +66,7 @@ Each notebook includes code snippets and explanations:
 
 ## Credits
 
-- **Course project on DeepLearning.AI** & [**DeepLearning.AI**](https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development/?utm_source=chatgpt.com) – Course instructors
+- **Course project on DeepLearning.AI** [**DeepLearning.AI**](https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development/?utm_source=chatgpt.com)
   
 ---
 
